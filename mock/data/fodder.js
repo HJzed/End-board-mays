@@ -1,0 +1,32 @@
+module.exports = [
+    {
+        id:0,
+        img:"http://img1.imgtn.bdimg.com/it/u=2138464762,2459932447&fm=26&gp=0.jpg",
+        state:"激烈"
+    },
+    {
+        id:1,
+        img:"http://img5.imgtn.bdimg.com/it/u=276604846,357385321&fm=26&gp=0.jpg",
+        state:"有氧运动"
+    },
+    {
+        id:2,
+        img:"http://img1.imgtn.bdimg.com/it/u=492930807,1817072590&fm=26&gp=0.jpg",
+        state:"舒缓"
+    },
+    {
+        id:3,
+        img:"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3375419696,2808254286&fm=27&gp=0.jpg",
+        state:"瑜伽"
+    },
+    {
+        id:4,
+        img:"http://dpic.tiankong.com/z3/zw/QJ6728594701.jpg",
+        state:"慢跑"
+    },
+    {
+        id:5,
+        img:"http://img4.imgtn.bdimg.com/it/u=2079431519,3432631749&fm=11&gp=0.jpg",
+        state:"快跑"
+    }
+]

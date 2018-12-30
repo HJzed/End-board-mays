@@ -1,0 +1,32 @@
+module.exports = [
+  {
+    id:0,
+    img:"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4220706705,1426391758&fm=27&gp=0.jpg",
+    title:"腰腹锻炼",
+    time:'26分钟',
+    hot:"1360",
+    L1:"L3",
+    buwei:"腰部",
+    numbers:"656"
+  },
+  {
+    id:1,
+    img:"https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2044233711,330641063&fm=27&gp=0.jpg",
+    title:"久坐族脖颈放松",
+    time:'25分钟',
+    hot:"360",
+    L1:"L1",
+    buwei:"脖颈",
+    numbers:"1456"
+  },
+  {
+    id:2,
+    img:"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1317837516,2902057042&fm=27&gp=0.jpg",
+    title:"手臂塑形",
+    time:'3天',
+    hot:"2840",
+    L1:"L2",
+    buwei:"手臂",
+    numbers:"1234"
+  },
+]
